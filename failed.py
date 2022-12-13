@@ -1,2 +1,3 @@
+impor os
 
-prin("hello")
+print("hello")
